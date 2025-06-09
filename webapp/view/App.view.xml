@@ -1,0 +1,11 @@
+<mvc:View
+    controllerName="ui5.walkthrough.controller.App"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true">
+    <Shell backgroundImage="https://media.cnn.com/api/v1/images/stellar/prod/170224113928-museum-of-islamic-art.jpg">
+        <App
+            class="myAppDemoWT"
+            id="app"/>
+    </Shell>
+</mvc:View>
